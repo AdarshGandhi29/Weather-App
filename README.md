@@ -4,7 +4,7 @@ Welcome to the Weather Application project! This application provides real-time 
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Weather Application :
+Check out the live demo of the Weather Application : https://adarshgandhi29.github.io/PRODIGY_WD_05/
 
 ## ✨ Features
 
